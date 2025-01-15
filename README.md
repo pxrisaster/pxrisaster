@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paris
+- 👋 Hi, I’m <b>Paris<b/>
 - 👀 I’m interested in astrophysics, greek mythology, the renaissance, and computer science.
 - 🌱 I’m currently studying in an IB World School
 - 💞️ I’m looking to collaborate on a simple project. I'm new to coding!
